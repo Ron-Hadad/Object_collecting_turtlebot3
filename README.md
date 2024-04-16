@@ -4,7 +4,7 @@
 
 This ROS project enables the Turtlebot 3 Burger to navigate to a series of randomly placed red balls and place them on top of a randomly placed blue cube autonomously within a Gazebo simulated environment. 
 ## How to Run the Project
-
+note: This project requires the installation of Gazebo as a dependency.
 1. **Start Environment:**
    - Open Terminal 1 and launch the Turtlebot 3 Burger in our custom world: 
      ```
@@ -49,9 +49,6 @@ This ROS project enables the Turtlebot 3 Burger to navigate to a series of rando
 
    - Now, observe the Turtlebot autonomously collecting the red balls and placing them on top of the blue cube. Moreover, the actions that the robot does are collected to a file named `output.txt` that can be found also in this folder.
 
-## Contributors
-- Guy (206922544)
-- Ron (209260645)
 
 ---
 
