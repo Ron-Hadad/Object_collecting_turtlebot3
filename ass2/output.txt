@@ -1,0 +1,15 @@
+msg: Robot command- moving towards: red_ball0 that is in (1.590590, 0.707097)
+msg: Robot command- picking up: red_ball0
+msg: Robot command- moving towards: blue_cube
+msg: Robot command- placing: red_ball0 on the blue_cube
+msg: Robot command- moving towards: red_ball1 that is in (1.099040, 0.676513)
+msg: Robot command- picking up: red_ball1
+msg: Robot command- moving towards: blue_cube
+msg: Robot command- placing: red_ball1 on the blue_cube
+msg: Robot command- moving towards: red_ball2 that is in (0.888468, -0.698678)
+msg: Robot command- placing: red_ball2 on the blue_cube
+msg: Robot command- moving towards: red_ball3 that is in (2.012890, -0.754420)
+msg: Robot command- picking up: red_ball3
+msg: Robot command- moving towards: blue_cube
+msg: Robot command- placing: red_ball3 on the blue_cube
+msg: finish to place all the balls in the cube
